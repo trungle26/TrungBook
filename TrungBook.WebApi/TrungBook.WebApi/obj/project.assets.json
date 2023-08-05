@@ -1183,11 +1183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\môn học\\c#\\study\\TrungBook.WebApi\\TrungBook.WebApi\\TrungBook.WebApi.csproj",
+      "projectUniqueName": "D:\\môn học\\c#\\study\\TrungBook\\TrungBook.WebApi\\TrungBook.WebApi\\TrungBook.WebApi.csproj",
       "projectName": "TrungBook.WebApi",
-      "projectPath": "D:\\môn học\\c#\\study\\TrungBook.WebApi\\TrungBook.WebApi\\TrungBook.WebApi.csproj",
+      "projectPath": "D:\\môn học\\c#\\study\\TrungBook\\TrungBook.WebApi\\TrungBook.WebApi\\TrungBook.WebApi.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "D:\\môn học\\c#\\study\\TrungBook.WebApi\\TrungBook.WebApi\\obj\\",
+      "outputPath": "D:\\môn học\\c#\\study\\TrungBook\\TrungBook.WebApi\\TrungBook.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

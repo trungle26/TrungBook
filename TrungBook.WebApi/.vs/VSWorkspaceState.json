@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\TrungBook.WebApi",
-    "\\TrungBook.WebApi\\Controllers",
-    "\\TrungBook.WebApi\\Models"
+    ""
   ],
-  "SelectedNode": "\\TrungBook.WebApi\\appsettings.json",
+  "SelectedNode": "\\TrungBook.WebApi.sln (TrungBook.WebApi.sln)",
   "PreviewInSolutionExplorer": false
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D999jbzS+H9x4m5hhMC44YApyyvIMP4dRYCiRC29tUBUO+vV6i0n7kK7XBDbChcOuiZ4le5HzsdVFQazaUkIxw==",
+  "dgSpecHash": "klKPtsTduvu024eW2YDz+hwyCB1mPKU8s/wDr5Di2A82ALuuz5Ode15tONp6G851957p+XwBYwbqZmXpycMwaA==",
   "success": true,
-  "projectFilePath": "D:\\môn học\\c#\\study\\TrungBook.WebApi\\TrungBook.WebApi\\TrungBook.WebApi.csproj",
+  "projectFilePath": "D:\\môn học\\c#\\study\\TrungBook\\TrungBook.WebApi\\TrungBook.WebApi\\TrungBook.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
